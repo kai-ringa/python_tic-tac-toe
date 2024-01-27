@@ -11,11 +11,11 @@ This is a simple console-based Tic Tac Toe game implemented in Python.
 ## Board Representation
 
 The game is represented as a list of strings. 'X' and 'O' are displayed at the center of each cell.
-
+```
 1 | 2 | 3
 4 | 5 | 6
 7 | 8 | 9
-
+```
 ## Functionality
 
 - 'print_board(board)': Function to print the current state of the board.
