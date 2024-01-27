@@ -23,9 +23,9 @@ The game is represented as a list of strings. 'X' and 'O' are displayed at the c
 
 ## How to Run
 
-1.Install Python on your system.
-2.Open a terminal or command prompt.
-3.Navigate to the project directory.
-4.Run the command: 'python tic-tac-toe.py'
+1. Install Python on your system.
+2. Open a terminal or command prompt.
+3. Navigate to the project directory.
+4. Run the command: 'python tic-tac-toe.py'
 
 Enjoy the Game!
